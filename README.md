@@ -23,6 +23,12 @@ Hi there, I'm Hyeri park! 👋
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 </p>
+<br><br>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerihello&count_bg=%23FFABCF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br><br>
+
 
 <!-- <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
