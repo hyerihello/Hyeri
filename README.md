@@ -7,9 +7,9 @@
 
 <p align="center">
 Hi there, I'm Hyeri park! 👋
-</p>
+</p><br><br>
 
-<h3 align="center"> 📚 Tech Stack 📚</h3>
+<h3 align="center"> 📚 Tech Stack 📚</h3><br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -19,7 +19,9 @@ Hi there, I'm Hyeri park! 👋
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
 </p>
 
 <!-- <h3 align="center">🌈 Follow Me 🌈</h3>
