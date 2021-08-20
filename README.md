@@ -6,10 +6,12 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
 
 <p align="center">
+<div align=center>
 Hi there, I'm Hyeri park! 👋
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerihello&count_bg=%23FFABCF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hyerihello)
-  
+
+</div>
 </p><br><br>
 
 <h3 align="center"> 📚 Tech Stack 📚</h3><br><br>
