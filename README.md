@@ -7,7 +7,7 @@
 
 <p align="center">
 <div align=center>
-Hi there, I'm Hyeri park! 👋
+Hi there, I'm Hyeri park! 👋 <br><br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerihello&count_bg=%23FFABCF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hyerihello)
 
