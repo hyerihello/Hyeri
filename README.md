@@ -1,9 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f95965&height=200&section=header&text=hyeri%20world&fontColor=FFFAFA&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f95965&height=250&section=header&text=hyeri%20world&fontColor=FFFAFA&fontSize=90)
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=f95965&height=300&section=header&text=hyeri%20world&fontColor=FFFAFA&fontSize=90)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
+
 <p align="center">
 Hi there, I'm Hyeri park! 👋
 </p>
@@ -14,7 +15,7 @@ Hi there, I'm Hyeri park! 👋
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
 </p>
 
