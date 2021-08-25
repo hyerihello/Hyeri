@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f95965&height=250&section=header&text=hyeri%20world&fontColor=FFFAFA&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f95965&height=250&section=header&text=hyeri%20place&fontColor=FFFAFA&fontSize=90)
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=f95965&height=300&section=header&text=hyeri%20place&fontColor=FFFAFA&fontSize=90)
