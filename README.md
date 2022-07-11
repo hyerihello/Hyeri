@@ -20,19 +20,20 @@ Hi there, I'm Hyeri park! 👋 <br><br><br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-the-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-the-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-the-square&logo=PHP&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-the-square&logo=CodeIgniter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-the-square&logo=CodeIgniter&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-the-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-the-square&logo=JavaScript&logoColor=white"/></a><br>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-the-square&logo=Flask&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-the-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-the-square&logo=Vue.js&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-the-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-the-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-the-square&logo=Jira&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-the-square&logo=MySQL&logoColor=white"/></a> 
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-the-square&logo=PostgreSQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-the-square&logo=Oracle&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-the-square&logo=Oracle&logoColor=white"/></a><br> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-the-square&logo=MongoDB&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-the-square&logo=Jupyter&logoColor=white"/></a>
-  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-the-square&logo=GitHub&logoColor=white"/></a>
 </p>
 <br><br>
 
