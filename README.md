@@ -18,7 +18,7 @@ Hi there, I'm Hyeri park! 👋 <br><br><br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-the-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/php-007396?style=flat-the-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/php-#777BB4?style=flat-the-square&logo=php&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-the-square&logo=Python&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-the-square&logo=Oracle&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-the-square&logo=MongoDB&logoColor=white"/></a>
