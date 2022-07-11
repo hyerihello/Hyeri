@@ -27,13 +27,15 @@ Hi there, I'm Hyeri park! 👋 <br><br><br><br>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-the-square&logo=Vue.js&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-the-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-the-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-the-square&logo=Jupyter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-the-square&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-the-square&logo=Jira&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-the-square&logo=MySQL&logoColor=white"/></a> 
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-the-square&logo=PostgreSQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-the-square&logo=Oracle&logoColor=white"/></a><br> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-the-square&logo=MongoDB&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-the-square&logo=Jupyter&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-the-square&logo=GitHub&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-the-square&logo=Oracle&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-the-square&logo=MongoDB&logoColor=white"/></a><br> 
+  
+  
 </p>
 <br><br>
 
